@@ -1,2 +1,3 @@
-# Lesson_3.5.1-2
-ToDoList-Composite, Parser-ChainOfResponsibility
+# ToDoList-Composite, Parser-ChainOfResponsibility
+- В песочнице реализован парсер с использованием Chain of responsibility
+- Проектом реализован ToDoList с использованием Composite.
